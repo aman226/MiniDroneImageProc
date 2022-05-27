@@ -4,7 +4,7 @@ project(AMS)
 cmake_minimum_required(VERSION 2.8)
 
 # Define project name
-project(Attendence_Monitoring_System)
+project(MiniDrone_Image_Processing)
 
 # Find OpenCV, you may need to set OpenCV_DIR variable
 # to the absolute path to the directory containing OpenCVConfig.cmake file
